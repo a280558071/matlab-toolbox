@@ -9,8 +9,8 @@
 %
 %% Initialization
 clear all; close all; clc; 
-restoredefaultpath;
-addpath(genpath('C:/Work/FAST/matlab-toolbox'));
+% restoredefaultpath;
+% addpath(genpath('C:/Work/FAST/matlab-toolbox'));
 
 %% Parameters
 

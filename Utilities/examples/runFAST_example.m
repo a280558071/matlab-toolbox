@@ -8,12 +8,12 @@
 %
 %% Initialization
 clear all; close all; clc; 
-restoredefaultpath;
-addpath(genpath('C:/Work/FAST/matlab-toolbox')); % TODO adapt me
+% restoredefaultpath;
+% addpath(genpath('C:/Work/FAST/matlab-toolbox')); % TODO adapt me
 
 
 %% Parameters
-FASTexe = '../../_ExampleData/openfast3.0_x64s.exe'; % path to an OpenFAST executable
+FASTexe = 'D:\微云同步助手\280558071\2022年深圳市优青\FASTFarm\openfast_x64.exe'; % path to an OpenFAST executable
 OUText  = '.outb'; % Output extension
 
 FSTfilenames={ % path to OpenFAST input files

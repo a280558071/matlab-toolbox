@@ -8,8 +8,8 @@
 %
 %% Initialization
 clear all; close all; clc; 
-restoredefaultpath;
-addpath(genpath('C:/Work/FAST/matlab-toolbox')); % TODO adapt me
+% restoredefaultpath;
+% addpath(genpath('C:/Work/FAST/matlab-toolbox')); % TODO adapt me
 
 %% Parameters
 
